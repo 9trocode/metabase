@@ -1,1 +1,1 @@
-FROM dpage/pgadmin4:latest
+FROM metabase/metabase:latest
