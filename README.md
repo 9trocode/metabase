@@ -2,6 +2,8 @@
 
 This image contains the open-source version of Metabase. For the Metabase with all of the bells and whistles, check out [Metabase Enterprise](link-to-enterprise-version).
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/postgres)
+
 To get started, check out our docs:
 
 - [Running Metabase on Docker](link-to-docker-docs).
